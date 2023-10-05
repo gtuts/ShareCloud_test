@@ -80,7 +80,7 @@ export default function DateTable() {
                     <table class="table table-hover table-bordered mb-0">
                       <thead>
                         <tr>
-                          <th scope="col">Task</th>
+                          <th scope="col">Tasks</th>
                           <th scope="col">1</th>
                           <th scope="col">2</th>
                           <th scope="col">3</th>
@@ -156,7 +156,7 @@ export default function DateTable() {
                     <table class="table table-hover table-bordered mb-0">
                       <thead>
                         <tr>
-                          <th scope="col">Task</th>
+                          <th scope="col">Tasks</th>
                           <th scope="col">1</th>
                           <th scope="col">2</th>
                           <th scope="col">3</th>
@@ -232,7 +232,7 @@ export default function DateTable() {
                     <table class="table table-hover table-bordered mb-0">
                       <thead>
                         <tr>
-                          <th scope="col">Task</th>
+                          <th scope="col">Tasks</th>
                           <th scope="col">1</th>
                           <th scope="col">2</th>
                           <th scope="col">3</th>
@@ -308,7 +308,7 @@ export default function DateTable() {
                     <table class="table table-hover table-bordered mb-0">
                       <thead>
                         <tr>
-                          <th scope="col">Task</th>
+                          <th scope="col">Tasks</th>
                           <th scope="col">1</th>
                           <th scope="col">2</th>
                           <th scope="col">3</th>
